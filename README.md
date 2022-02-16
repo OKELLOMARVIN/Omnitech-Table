@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyPackages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Omnitech-Table
+An NPM Package that generates a table provided an array, in angular
+>>>>>>> 9e8ba053e5b39ee1e03c99fc0b3bffed25678490

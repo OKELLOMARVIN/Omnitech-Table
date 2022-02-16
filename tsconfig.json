@@ -13,6 +13,12 @@
     "downlevelIteration": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
+    "paths": {
+      "omnitech-table": [
+        "dist/omnitech-table/omnitech-table",
+        "dist/omnitech-table"
+      ]
+    },
     "importHelpers": true,
     "target": "es2017",
     "module": "es2020",
