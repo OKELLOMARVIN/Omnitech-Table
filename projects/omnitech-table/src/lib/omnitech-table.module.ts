@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { OmnitechTableComponent } from './omnitech-table.component';
+import {NgxDatatableModule} from "@swimlane/ngx-datatable";
 
 
 
@@ -8,6 +9,7 @@ import { OmnitechTableComponent } from './omnitech-table.component';
     OmnitechTableComponent
   ],
   imports: [
+    NgxDatatableModule
   ],
   exports: [
     OmnitechTableComponent
